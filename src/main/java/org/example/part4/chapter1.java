@@ -2,7 +2,7 @@ package org.example.part4;
 
 import java.util.Scanner;
 
-//완전탐색
+//완전탐색 유레카넘버
 public class chapter1 {
     static boolean[] isEurekaNumber = new boolean[1001];
     public static void preprocess(){
