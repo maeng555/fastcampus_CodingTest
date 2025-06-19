@@ -11,10 +11,6 @@ public class backjun1546 {
         int max = 0;
         for (int i = 0; i < a; i++) {
             array[i] = sc.nextInt();
-//            System.out.println(array[i]);
-//             if (array[i]>0 && max<array[i]){
-//                max = array[i];
-//            }
         }
         Arrays.sort(array);
         max = array[a - 1]; //최댓값
