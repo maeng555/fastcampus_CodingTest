@@ -1,10 +1,9 @@
 package org.example.study;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Scanner;
 //오름차순 정렬 첫번째 줄 개수, 두번째 ~n번째 줄 오름차순 해야 할 수
-public class backjun2750 {
+public class baekjoon2750 {
     public static void main(String[] args) {
         //sort 함수
         Scanner sc = new Scanner(System.in);

@@ -2,7 +2,7 @@ package org.example.study;
 
 import java.util.Scanner;
 
-public class backjun11720 {
+public class baekjoon11720 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
